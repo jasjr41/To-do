@@ -1,3 +1,7 @@
+To-Do List Manager (Django Web Application)
+A full-featured task management system for personal productivity.
+
+
       Core Features:
       
       CRUD Operations: Full Create, Read, Update, Delete functionality for tasks
